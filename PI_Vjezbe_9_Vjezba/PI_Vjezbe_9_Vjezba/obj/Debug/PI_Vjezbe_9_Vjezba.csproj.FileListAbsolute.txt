@@ -1,0 +1,10 @@
+c:\users\korisnik\documents\visual studio 2015\Projects\PI_Vjezbe_9_Vjezba\PI_Vjezbe_9_Vjezba\bin\Debug\PI_Vjezbe_9_Vjezba.exe.config
+c:\users\korisnik\documents\visual studio 2015\Projects\PI_Vjezbe_9_Vjezba\PI_Vjezbe_9_Vjezba\bin\Debug\PI_Vjezbe_9_Vjezba.exe
+c:\users\korisnik\documents\visual studio 2015\Projects\PI_Vjezbe_9_Vjezba\PI_Vjezbe_9_Vjezba\bin\Debug\PI_Vjezbe_9_Vjezba.pdb
+c:\users\korisnik\documents\visual studio 2015\Projects\PI_Vjezbe_9_Vjezba\PI_Vjezbe_9_Vjezba\obj\Debug\PI_Vjezbe_9_Vjezba.csprojResolveAssemblyReference.cache
+c:\users\korisnik\documents\visual studio 2015\Projects\PI_Vjezbe_9_Vjezba\PI_Vjezbe_9_Vjezba\obj\Debug\PI_Vjezbe_9_Vjezba.DataBrowseItems.frmBrowseOrders.resources
+c:\users\korisnik\documents\visual studio 2015\Projects\PI_Vjezbe_9_Vjezba\PI_Vjezbe_9_Vjezba\obj\Debug\PI_Vjezbe_9_Vjezba.frmMain.resources
+c:\users\korisnik\documents\visual studio 2015\Projects\PI_Vjezbe_9_Vjezba\PI_Vjezbe_9_Vjezba\obj\Debug\PI_Vjezbe_9_Vjezba.Properties.Resources.resources
+c:\users\korisnik\documents\visual studio 2015\Projects\PI_Vjezbe_9_Vjezba\PI_Vjezbe_9_Vjezba\obj\Debug\PI_Vjezbe_9_Vjezba.csproj.GenerateResource.Cache
+c:\users\korisnik\documents\visual studio 2015\Projects\PI_Vjezbe_9_Vjezba\PI_Vjezbe_9_Vjezba\obj\Debug\PI_Vjezbe_9_Vjezba.exe
+c:\users\korisnik\documents\visual studio 2015\Projects\PI_Vjezbe_9_Vjezba\PI_Vjezbe_9_Vjezba\obj\Debug\PI_Vjezbe_9_Vjezba.pdb

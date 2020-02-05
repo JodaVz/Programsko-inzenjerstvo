@@ -1,0 +1,6 @@
+c:\users\korisnik\documents\visual studio 2015\Projects\ZadHamming\ZadHamming\bin\Debug\ZadHamming.exe.config
+c:\users\korisnik\documents\visual studio 2015\Projects\ZadHamming\ZadHamming\bin\Debug\ZadHamming.exe
+c:\users\korisnik\documents\visual studio 2015\Projects\ZadHamming\ZadHamming\bin\Debug\ZadHamming.pdb
+c:\users\korisnik\documents\visual studio 2015\Projects\ZadHamming\ZadHamming\obj\Debug\ZadHamming.csprojResolveAssemblyReference.cache
+c:\users\korisnik\documents\visual studio 2015\Projects\ZadHamming\ZadHamming\obj\Debug\ZadHamming.exe
+c:\users\korisnik\documents\visual studio 2015\Projects\ZadHamming\ZadHamming\obj\Debug\ZadHamming.pdb

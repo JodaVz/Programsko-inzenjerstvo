@@ -1,0 +1,6 @@
+c:\users\korisnik\documents\visual studio 2015\Projects\PI_Vjezba_1_4K\PI_Vjezba_1_4K\bin\Debug\PI_Vjezba_1_4K.exe.config
+c:\users\korisnik\documents\visual studio 2015\Projects\PI_Vjezba_1_4K\PI_Vjezba_1_4K\bin\Debug\PI_Vjezba_1_4K.exe
+c:\users\korisnik\documents\visual studio 2015\Projects\PI_Vjezba_1_4K\PI_Vjezba_1_4K\bin\Debug\PI_Vjezba_1_4K.pdb
+c:\users\korisnik\documents\visual studio 2015\Projects\PI_Vjezba_1_4K\PI_Vjezba_1_4K\obj\Debug\PI_Vjezba_1_4K.csprojResolveAssemblyReference.cache
+c:\users\korisnik\documents\visual studio 2015\Projects\PI_Vjezba_1_4K\PI_Vjezba_1_4K\obj\Debug\PI_Vjezba_1_4K.exe
+c:\users\korisnik\documents\visual studio 2015\Projects\PI_Vjezba_1_4K\PI_Vjezba_1_4K\obj\Debug\PI_Vjezba_1_4K.pdb

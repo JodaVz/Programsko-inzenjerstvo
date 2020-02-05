@@ -1,0 +1,14 @@
+c:\users\greyfox\documents\visual studio 2017\Projects\WindowsFormsApp19\WindowsFormsApp19\bin\Debug\WindowsFormsApp19.exe.config
+c:\users\greyfox\documents\visual studio 2017\Projects\WindowsFormsApp19\WindowsFormsApp19\bin\Debug\WindowsFormsApp19.exe
+c:\users\greyfox\documents\visual studio 2017\Projects\WindowsFormsApp19\WindowsFormsApp19\bin\Debug\WindowsFormsApp19.pdb
+c:\users\greyfox\documents\visual studio 2017\Projects\WindowsFormsApp19\WindowsFormsApp19\bin\Debug\PIHelper.dll
+c:\users\greyfox\documents\visual studio 2017\Projects\WindowsFormsApp19\WindowsFormsApp19\bin\Debug\Newtonsoft.Json.dll
+c:\users\greyfox\documents\visual studio 2017\Projects\WindowsFormsApp19\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.csprojResolveAssemblyReference.cache
+c:\users\greyfox\documents\visual studio 2017\Projects\WindowsFormsApp19\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.Form1.resources
+c:\users\greyfox\documents\visual studio 2017\Projects\WindowsFormsApp19\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.Properties.Resources.resources
+c:\users\greyfox\documents\visual studio 2017\Projects\WindowsFormsApp19\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.csproj.GenerateResource.Cache
+c:\users\greyfox\documents\visual studio 2017\Projects\WindowsFormsApp19\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.exe
+c:\users\greyfox\documents\visual studio 2017\Projects\WindowsFormsApp19\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.pdb
+C:\Users\Korisnik\Documents\Visual Studio 2015\Projects\mrc\WindowsFormsApp19\WindowsFormsApp19\bin\Debug\WindowsFormsApp19.exe.config
+C:\Users\Korisnik\Documents\Visual Studio 2015\Projects\mrc\WindowsFormsApp19\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.exe
+C:\Users\Korisnik\Documents\Visual Studio 2015\Projects\mrc\WindowsFormsApp19\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.pdb

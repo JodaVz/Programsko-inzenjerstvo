@@ -1,0 +1,6 @@
+c:\users\korisnik\documents\visual studio 2015\Projects\PI_Srijeda_2\PI_Srijeda_2\bin\Debug\PI_Srijeda_2.exe.config
+c:\users\korisnik\documents\visual studio 2015\Projects\PI_Srijeda_2\PI_Srijeda_2\bin\Debug\PI_Srijeda_2.exe
+c:\users\korisnik\documents\visual studio 2015\Projects\PI_Srijeda_2\PI_Srijeda_2\bin\Debug\PI_Srijeda_2.pdb
+c:\users\korisnik\documents\visual studio 2015\Projects\PI_Srijeda_2\PI_Srijeda_2\obj\Debug\PI_Srijeda_2.csprojResolveAssemblyReference.cache
+c:\users\korisnik\documents\visual studio 2015\Projects\PI_Srijeda_2\PI_Srijeda_2\obj\Debug\PI_Srijeda_2.exe
+c:\users\korisnik\documents\visual studio 2015\Projects\PI_Srijeda_2\PI_Srijeda_2\obj\Debug\PI_Srijeda_2.pdb

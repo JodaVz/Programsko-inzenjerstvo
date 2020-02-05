@@ -1,0 +1,12 @@
+c:\users\greyfox\documents\visual studio 2017\Projects\WindowsFormsApp14\WindowsFormsApp14\bin\Debug\WindowsFormsApp14.exe.config
+c:\users\greyfox\documents\visual studio 2017\Projects\WindowsFormsApp14\WindowsFormsApp14\bin\Debug\WindowsFormsApp14.exe
+c:\users\greyfox\documents\visual studio 2017\Projects\WindowsFormsApp14\WindowsFormsApp14\bin\Debug\WindowsFormsApp14.pdb
+c:\users\greyfox\documents\visual studio 2017\Projects\WindowsFormsApp14\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.csprojResolveAssemblyReference.cache
+c:\users\greyfox\documents\visual studio 2017\Projects\WindowsFormsApp14\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.Form1.resources
+c:\users\greyfox\documents\visual studio 2017\Projects\WindowsFormsApp14\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.Properties.Resources.resources
+c:\users\greyfox\documents\visual studio 2017\Projects\WindowsFormsApp14\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.csproj.GenerateResource.Cache
+c:\users\greyfox\documents\visual studio 2017\Projects\WindowsFormsApp14\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.exe
+c:\users\greyfox\documents\visual studio 2017\Projects\WindowsFormsApp14\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.pdb
+C:\Users\Korisnik\Documents\Visual Studio 2015\Projects\WindowsFormsApp14\WindowsFormsApp14\bin\Debug\WindowsFormsApp14.exe.config
+C:\Users\Korisnik\Documents\Visual Studio 2015\Projects\WindowsFormsApp14\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.exe
+C:\Users\Korisnik\Documents\Visual Studio 2015\Projects\WindowsFormsApp14\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.pdb

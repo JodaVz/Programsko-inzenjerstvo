@@ -1,0 +1,6 @@
+c:\users\korisnik\documents\visual studio 2015\Projects\PI_Vjezbe_3_ponedeljak\PI_Vjezbe_3_ponedeljak\bin\Debug\PI_Vjezbe_3_ponedeljak.exe.config
+c:\users\korisnik\documents\visual studio 2015\Projects\PI_Vjezbe_3_ponedeljak\PI_Vjezbe_3_ponedeljak\bin\Debug\PI_Vjezbe_3_ponedeljak.exe
+c:\users\korisnik\documents\visual studio 2015\Projects\PI_Vjezbe_3_ponedeljak\PI_Vjezbe_3_ponedeljak\bin\Debug\PI_Vjezbe_3_ponedeljak.pdb
+c:\users\korisnik\documents\visual studio 2015\Projects\PI_Vjezbe_3_ponedeljak\PI_Vjezbe_3_ponedeljak\obj\Debug\PI_Vjezbe_3_ponedeljak.csprojResolveAssemblyReference.cache
+c:\users\korisnik\documents\visual studio 2015\Projects\PI_Vjezbe_3_ponedeljak\PI_Vjezbe_3_ponedeljak\obj\Debug\PI_Vjezbe_3_ponedeljak.exe
+c:\users\korisnik\documents\visual studio 2015\Projects\PI_Vjezbe_3_ponedeljak\PI_Vjezbe_3_ponedeljak\obj\Debug\PI_Vjezbe_3_ponedeljak.pdb

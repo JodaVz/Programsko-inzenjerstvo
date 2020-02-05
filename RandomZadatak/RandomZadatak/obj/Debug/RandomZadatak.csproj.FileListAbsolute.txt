@@ -1,0 +1,4 @@
+c:\users\korisnik\documents\visual studio 2015\Projects\RandomZadatak\RandomZadatak\bin\Debug\RandomZadatak.exe.config
+c:\users\korisnik\documents\visual studio 2015\Projects\RandomZadatak\RandomZadatak\obj\Debug\RandomZadatak.csprojResolveAssemblyReference.cache
+c:\users\korisnik\documents\visual studio 2015\Projects\RandomZadatak\RandomZadatak\obj\Debug\RandomZadatak.Properties.Resources.resources
+c:\users\korisnik\documents\visual studio 2015\Projects\RandomZadatak\RandomZadatak\obj\Debug\RandomZadatak.csproj.GenerateResource.Cache

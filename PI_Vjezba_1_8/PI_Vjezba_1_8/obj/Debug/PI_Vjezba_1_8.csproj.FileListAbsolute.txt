@@ -1,0 +1,5 @@
+c:\users\korisnik\documents\visual studio 2015\Projects\PI_Vjezba_1_8\PI_Vjezba_1_8\bin\Debug\PI_Vjezba_1_8.exe.config
+c:\users\korisnik\documents\visual studio 2015\Projects\PI_Vjezba_1_8\PI_Vjezba_1_8\bin\Debug\PI_Vjezba_1_8.exe
+c:\users\korisnik\documents\visual studio 2015\Projects\PI_Vjezba_1_8\PI_Vjezba_1_8\bin\Debug\PI_Vjezba_1_8.pdb
+c:\users\korisnik\documents\visual studio 2015\Projects\PI_Vjezba_1_8\PI_Vjezba_1_8\obj\Debug\PI_Vjezba_1_8.exe
+c:\users\korisnik\documents\visual studio 2015\Projects\PI_Vjezba_1_8\PI_Vjezba_1_8\obj\Debug\PI_Vjezba_1_8.pdb

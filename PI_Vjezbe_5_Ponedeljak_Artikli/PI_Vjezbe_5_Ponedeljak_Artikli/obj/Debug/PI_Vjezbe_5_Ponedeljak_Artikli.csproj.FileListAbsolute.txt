@@ -1,0 +1,9 @@
+c:\users\korisnik\documents\visual studio 2015\Projects\PI_Vjezbe_5_Ponedeljak_Artikli\PI_Vjezbe_5_Ponedeljak_Artikli\bin\Debug\PI_Vjezbe_5_Ponedeljak_Artikli.exe.config
+c:\users\korisnik\documents\visual studio 2015\Projects\PI_Vjezbe_5_Ponedeljak_Artikli\PI_Vjezbe_5_Ponedeljak_Artikli\bin\Debug\PI_Vjezbe_5_Ponedeljak_Artikli.exe
+c:\users\korisnik\documents\visual studio 2015\Projects\PI_Vjezbe_5_Ponedeljak_Artikli\PI_Vjezbe_5_Ponedeljak_Artikli\bin\Debug\PI_Vjezbe_5_Ponedeljak_Artikli.pdb
+c:\users\korisnik\documents\visual studio 2015\Projects\PI_Vjezbe_5_Ponedeljak_Artikli\PI_Vjezbe_5_Ponedeljak_Artikli\obj\Debug\PI_Vjezbe_5_Ponedeljak_Artikli.csprojResolveAssemblyReference.cache
+c:\users\korisnik\documents\visual studio 2015\Projects\PI_Vjezbe_5_Ponedeljak_Artikli\PI_Vjezbe_5_Ponedeljak_Artikli\obj\Debug\PI_Vjezbe_5_Ponedeljak_Artikli.Form1.resources
+c:\users\korisnik\documents\visual studio 2015\Projects\PI_Vjezbe_5_Ponedeljak_Artikli\PI_Vjezbe_5_Ponedeljak_Artikli\obj\Debug\PI_Vjezbe_5_Ponedeljak_Artikli.Properties.Resources.resources
+c:\users\korisnik\documents\visual studio 2015\Projects\PI_Vjezbe_5_Ponedeljak_Artikli\PI_Vjezbe_5_Ponedeljak_Artikli\obj\Debug\PI_Vjezbe_5_Ponedeljak_Artikli.csproj.GenerateResource.Cache
+c:\users\korisnik\documents\visual studio 2015\Projects\PI_Vjezbe_5_Ponedeljak_Artikli\PI_Vjezbe_5_Ponedeljak_Artikli\obj\Debug\PI_Vjezbe_5_Ponedeljak_Artikli.exe
+c:\users\korisnik\documents\visual studio 2015\Projects\PI_Vjezbe_5_Ponedeljak_Artikli\PI_Vjezbe_5_Ponedeljak_Artikli\obj\Debug\PI_Vjezbe_5_Ponedeljak_Artikli.pdb

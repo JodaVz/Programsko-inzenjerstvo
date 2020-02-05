@@ -1,0 +1,6 @@
+c:\users\korisnik\documents\visual studio 2015\Projects\DjeliteljVisekratnik\DjeliteljVisekratnik\bin\Debug\DjeliteljVisekratnik.exe.config
+c:\users\korisnik\documents\visual studio 2015\Projects\DjeliteljVisekratnik\DjeliteljVisekratnik\bin\Debug\DjeliteljVisekratnik.exe
+c:\users\korisnik\documents\visual studio 2015\Projects\DjeliteljVisekratnik\DjeliteljVisekratnik\bin\Debug\DjeliteljVisekratnik.pdb
+c:\users\korisnik\documents\visual studio 2015\Projects\DjeliteljVisekratnik\DjeliteljVisekratnik\obj\Debug\DjeliteljVisekratnik.csprojResolveAssemblyReference.cache
+c:\users\korisnik\documents\visual studio 2015\Projects\DjeliteljVisekratnik\DjeliteljVisekratnik\obj\Debug\DjeliteljVisekratnik.exe
+c:\users\korisnik\documents\visual studio 2015\Projects\DjeliteljVisekratnik\DjeliteljVisekratnik\obj\Debug\DjeliteljVisekratnik.pdb

@@ -1,0 +1,6 @@
+c:\users\korisnik\documents\visual studio 2015\Projects\PI_Petak_2_Korijen\PI_Petak_2_Korijen\bin\Debug\PI_Petak_2_Korijen.exe.config
+c:\users\korisnik\documents\visual studio 2015\Projects\PI_Petak_2_Korijen\PI_Petak_2_Korijen\bin\Debug\PI_Petak_2_Korijen.exe
+c:\users\korisnik\documents\visual studio 2015\Projects\PI_Petak_2_Korijen\PI_Petak_2_Korijen\bin\Debug\PI_Petak_2_Korijen.pdb
+c:\users\korisnik\documents\visual studio 2015\Projects\PI_Petak_2_Korijen\PI_Petak_2_Korijen\obj\Debug\PI_Petak_2_Korijen.csprojResolveAssemblyReference.cache
+c:\users\korisnik\documents\visual studio 2015\Projects\PI_Petak_2_Korijen\PI_Petak_2_Korijen\obj\Debug\PI_Petak_2_Korijen.exe
+c:\users\korisnik\documents\visual studio 2015\Projects\PI_Petak_2_Korijen\PI_Petak_2_Korijen\obj\Debug\PI_Petak_2_Korijen.pdb

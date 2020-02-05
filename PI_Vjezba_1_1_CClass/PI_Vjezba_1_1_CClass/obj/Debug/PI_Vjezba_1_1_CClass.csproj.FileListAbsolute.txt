@@ -1,0 +1,6 @@
+c:\users\korisnik\documents\visual studio 2015\Projects\PI_Vjezba_1_1_CClass\PI_Vjezba_1_1_CClass\bin\Debug\PI_Vjezba_1_1_CClass.exe.config
+C:\Users\Korisnik\Documents\Visual Studio 2015\Projects\PI_Vjezba_1_1_CClass\PI_Vjezba_1_1_CClass\bin\Debug\PI_Vjezba_1_1_CClass.exe
+C:\Users\Korisnik\Documents\Visual Studio 2015\Projects\PI_Vjezba_1_1_CClass\PI_Vjezba_1_1_CClass\bin\Debug\PI_Vjezba_1_1_CClass.pdb
+C:\Users\Korisnik\Documents\Visual Studio 2015\Projects\PI_Vjezba_1_1_CClass\PI_Vjezba_1_1_CClass\obj\Debug\PI_Vjezba_1_1_CClass.csprojResolveAssemblyReference.cache
+C:\Users\Korisnik\Documents\Visual Studio 2015\Projects\PI_Vjezba_1_1_CClass\PI_Vjezba_1_1_CClass\obj\Debug\PI_Vjezba_1_1_CClass.exe
+C:\Users\Korisnik\Documents\Visual Studio 2015\Projects\PI_Vjezba_1_1_CClass\PI_Vjezba_1_1_CClass\obj\Debug\PI_Vjezba_1_1_CClass.pdb

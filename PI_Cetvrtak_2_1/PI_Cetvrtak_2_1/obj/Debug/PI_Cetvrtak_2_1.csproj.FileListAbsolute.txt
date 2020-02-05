@@ -1,0 +1,6 @@
+c:\users\korisnik\documents\visual studio 2015\Projects\PI_Cetvrtak_2_1\PI_Cetvrtak_2_1\bin\Debug\PI_Cetvrtak_2_1.exe.config
+c:\users\korisnik\documents\visual studio 2015\Projects\PI_Cetvrtak_2_1\PI_Cetvrtak_2_1\bin\Debug\PI_Cetvrtak_2_1.exe
+c:\users\korisnik\documents\visual studio 2015\Projects\PI_Cetvrtak_2_1\PI_Cetvrtak_2_1\bin\Debug\PI_Cetvrtak_2_1.pdb
+c:\users\korisnik\documents\visual studio 2015\Projects\PI_Cetvrtak_2_1\PI_Cetvrtak_2_1\obj\Debug\PI_Cetvrtak_2_1.csprojResolveAssemblyReference.cache
+c:\users\korisnik\documents\visual studio 2015\Projects\PI_Cetvrtak_2_1\PI_Cetvrtak_2_1\obj\Debug\PI_Cetvrtak_2_1.exe
+c:\users\korisnik\documents\visual studio 2015\Projects\PI_Cetvrtak_2_1\PI_Cetvrtak_2_1\obj\Debug\PI_Cetvrtak_2_1.pdb

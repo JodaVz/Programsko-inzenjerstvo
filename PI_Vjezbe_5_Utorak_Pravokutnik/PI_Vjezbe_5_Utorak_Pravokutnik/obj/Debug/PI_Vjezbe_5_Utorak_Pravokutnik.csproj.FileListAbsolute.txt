@@ -1,0 +1,9 @@
+c:\users\korisnik\documents\visual studio 2015\Projects\PI_Vjezbe_5_Utorak_Pravokutnik\PI_Vjezbe_5_Utorak_Pravokutnik\bin\Debug\PI_Vjezbe_5_Utorak_Pravokutnik.exe.config
+c:\users\korisnik\documents\visual studio 2015\Projects\PI_Vjezbe_5_Utorak_Pravokutnik\PI_Vjezbe_5_Utorak_Pravokutnik\bin\Debug\PI_Vjezbe_5_Utorak_Pravokutnik.exe
+c:\users\korisnik\documents\visual studio 2015\Projects\PI_Vjezbe_5_Utorak_Pravokutnik\PI_Vjezbe_5_Utorak_Pravokutnik\bin\Debug\PI_Vjezbe_5_Utorak_Pravokutnik.pdb
+c:\users\korisnik\documents\visual studio 2015\Projects\PI_Vjezbe_5_Utorak_Pravokutnik\PI_Vjezbe_5_Utorak_Pravokutnik\obj\Debug\PI_Vjezbe_5_Utorak_Pravokutnik.csprojResolveAssemblyReference.cache
+c:\users\korisnik\documents\visual studio 2015\Projects\PI_Vjezbe_5_Utorak_Pravokutnik\PI_Vjezbe_5_Utorak_Pravokutnik\obj\Debug\PI_Vjezbe_5_Utorak_Pravokutnik.Form1.resources
+c:\users\korisnik\documents\visual studio 2015\Projects\PI_Vjezbe_5_Utorak_Pravokutnik\PI_Vjezbe_5_Utorak_Pravokutnik\obj\Debug\PI_Vjezbe_5_Utorak_Pravokutnik.Properties.Resources.resources
+c:\users\korisnik\documents\visual studio 2015\Projects\PI_Vjezbe_5_Utorak_Pravokutnik\PI_Vjezbe_5_Utorak_Pravokutnik\obj\Debug\PI_Vjezbe_5_Utorak_Pravokutnik.csproj.GenerateResource.Cache
+c:\users\korisnik\documents\visual studio 2015\Projects\PI_Vjezbe_5_Utorak_Pravokutnik\PI_Vjezbe_5_Utorak_Pravokutnik\obj\Debug\PI_Vjezbe_5_Utorak_Pravokutnik.exe
+c:\users\korisnik\documents\visual studio 2015\Projects\PI_Vjezbe_5_Utorak_Pravokutnik\PI_Vjezbe_5_Utorak_Pravokutnik\obj\Debug\PI_Vjezbe_5_Utorak_Pravokutnik.pdb

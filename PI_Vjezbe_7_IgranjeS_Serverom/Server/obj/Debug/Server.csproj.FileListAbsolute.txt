@@ -1,0 +1,9 @@
+c:\users\korisnik\documents\visual studio 2015\Projects\PI_Vjezbe_7_IgranjeS_Serverom\Server\bin\Debug\Server.exe.config
+c:\users\korisnik\documents\visual studio 2015\Projects\PI_Vjezbe_7_IgranjeS_Serverom\Server\bin\Debug\Server.exe
+c:\users\korisnik\documents\visual studio 2015\Projects\PI_Vjezbe_7_IgranjeS_Serverom\Server\bin\Debug\Server.pdb
+c:\users\korisnik\documents\visual studio 2015\Projects\PI_Vjezbe_7_IgranjeS_Serverom\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+c:\users\korisnik\documents\visual studio 2015\Projects\PI_Vjezbe_7_IgranjeS_Serverom\Server\obj\Debug\Server.Forma_Servera.resources
+c:\users\korisnik\documents\visual studio 2015\Projects\PI_Vjezbe_7_IgranjeS_Serverom\Server\obj\Debug\Server.Properties.Resources.resources
+c:\users\korisnik\documents\visual studio 2015\Projects\PI_Vjezbe_7_IgranjeS_Serverom\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+c:\users\korisnik\documents\visual studio 2015\Projects\PI_Vjezbe_7_IgranjeS_Serverom\Server\obj\Debug\Server.exe
+c:\users\korisnik\documents\visual studio 2015\Projects\PI_Vjezbe_7_IgranjeS_Serverom\Server\obj\Debug\Server.pdb

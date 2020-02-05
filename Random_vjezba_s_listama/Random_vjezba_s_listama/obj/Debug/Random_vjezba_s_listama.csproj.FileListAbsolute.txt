@@ -1,0 +1,6 @@
+c:\users\korisnik\documents\visual studio 2015\Projects\Random_vjezba_s_listama\Random_vjezba_s_listama\bin\Debug\Random_vjezba_s_listama.exe.config
+c:\users\korisnik\documents\visual studio 2015\Projects\Random_vjezba_s_listama\Random_vjezba_s_listama\bin\Debug\Random_vjezba_s_listama.exe
+c:\users\korisnik\documents\visual studio 2015\Projects\Random_vjezba_s_listama\Random_vjezba_s_listama\bin\Debug\Random_vjezba_s_listama.pdb
+c:\users\korisnik\documents\visual studio 2015\Projects\Random_vjezba_s_listama\Random_vjezba_s_listama\obj\Debug\Random_vjezba_s_listama.csprojResolveAssemblyReference.cache
+c:\users\korisnik\documents\visual studio 2015\Projects\Random_vjezba_s_listama\Random_vjezba_s_listama\obj\Debug\Random_vjezba_s_listama.exe
+c:\users\korisnik\documents\visual studio 2015\Projects\Random_vjezba_s_listama\Random_vjezba_s_listama\obj\Debug\Random_vjezba_s_listama.pdb

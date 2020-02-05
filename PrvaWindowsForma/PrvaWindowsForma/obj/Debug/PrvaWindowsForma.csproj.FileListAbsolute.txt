@@ -1,0 +1,9 @@
+c:\users\korisnik\documents\visual studio 2015\Projects\PrvaWindowsForma\PrvaWindowsForma\bin\Debug\PrvaWindowsForma.exe.config
+c:\users\korisnik\documents\visual studio 2015\Projects\PrvaWindowsForma\PrvaWindowsForma\bin\Debug\PrvaWindowsForma.exe
+c:\users\korisnik\documents\visual studio 2015\Projects\PrvaWindowsForma\PrvaWindowsForma\bin\Debug\PrvaWindowsForma.pdb
+c:\users\korisnik\documents\visual studio 2015\Projects\PrvaWindowsForma\PrvaWindowsForma\obj\Debug\PrvaWindowsForma.csprojResolveAssemblyReference.cache
+c:\users\korisnik\documents\visual studio 2015\Projects\PrvaWindowsForma\PrvaWindowsForma\obj\Debug\PrvaWindowsForma.Form1.resources
+c:\users\korisnik\documents\visual studio 2015\Projects\PrvaWindowsForma\PrvaWindowsForma\obj\Debug\PrvaWindowsForma.Properties.Resources.resources
+c:\users\korisnik\documents\visual studio 2015\Projects\PrvaWindowsForma\PrvaWindowsForma\obj\Debug\PrvaWindowsForma.csproj.GenerateResource.Cache
+c:\users\korisnik\documents\visual studio 2015\Projects\PrvaWindowsForma\PrvaWindowsForma\obj\Debug\PrvaWindowsForma.exe
+c:\users\korisnik\documents\visual studio 2015\Projects\PrvaWindowsForma\PrvaWindowsForma\obj\Debug\PrvaWindowsForma.pdb

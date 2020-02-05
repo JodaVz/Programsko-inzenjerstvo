@@ -1,0 +1,9 @@
+c:\users\korisnik\documents\visual studio 2015\Projects\PI_Vjezbe_4_Utorak_Brojevi\PI_Vjezbe_4_Utorak_Brojevi\bin\Debug\PI_Vjezbe_4_Utorak_Brojevi.exe.config
+c:\users\korisnik\documents\visual studio 2015\Projects\PI_Vjezbe_4_Utorak_Brojevi\PI_Vjezbe_4_Utorak_Brojevi\bin\Debug\PI_Vjezbe_4_Utorak_Brojevi.exe
+c:\users\korisnik\documents\visual studio 2015\Projects\PI_Vjezbe_4_Utorak_Brojevi\PI_Vjezbe_4_Utorak_Brojevi\bin\Debug\PI_Vjezbe_4_Utorak_Brojevi.pdb
+c:\users\korisnik\documents\visual studio 2015\Projects\PI_Vjezbe_4_Utorak_Brojevi\PI_Vjezbe_4_Utorak_Brojevi\obj\Debug\PI_Vjezbe_4_Utorak_Brojevi.csprojResolveAssemblyReference.cache
+c:\users\korisnik\documents\visual studio 2015\Projects\PI_Vjezbe_4_Utorak_Brojevi\PI_Vjezbe_4_Utorak_Brojevi\obj\Debug\PI_Vjezbe_4_Utorak_Brojevi.Form1.resources
+c:\users\korisnik\documents\visual studio 2015\Projects\PI_Vjezbe_4_Utorak_Brojevi\PI_Vjezbe_4_Utorak_Brojevi\obj\Debug\PI_Vjezbe_4_Utorak_Brojevi.Properties.Resources.resources
+c:\users\korisnik\documents\visual studio 2015\Projects\PI_Vjezbe_4_Utorak_Brojevi\PI_Vjezbe_4_Utorak_Brojevi\obj\Debug\PI_Vjezbe_4_Utorak_Brojevi.csproj.GenerateResource.Cache
+c:\users\korisnik\documents\visual studio 2015\Projects\PI_Vjezbe_4_Utorak_Brojevi\PI_Vjezbe_4_Utorak_Brojevi\obj\Debug\PI_Vjezbe_4_Utorak_Brojevi.exe
+c:\users\korisnik\documents\visual studio 2015\Projects\PI_Vjezbe_4_Utorak_Brojevi\PI_Vjezbe_4_Utorak_Brojevi\obj\Debug\PI_Vjezbe_4_Utorak_Brojevi.pdb

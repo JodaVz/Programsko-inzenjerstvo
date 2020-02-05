@@ -1,0 +1,10 @@
+C:\Users\N3XU5\Source\Repos\Rb29T3\Rb29T3\bin\Debug\Rb29T3.exe.config
+C:\Users\N3XU5\Source\Repos\Rb29T3\Rb29T3\bin\Debug\Rb29T3.exe
+C:\Users\N3XU5\Source\Repos\Rb29T3\Rb29T3\bin\Debug\Rb29T3.pdb
+C:\Users\N3XU5\Source\Repos\Rb29T3\Rb29T3\obj\Debug\Rb29T3.csprojResolveAssemblyReference.cache
+C:\Users\N3XU5\Source\Repos\Rb29T3\Rb29T3\obj\Debug\Rb29T3.csproj.CoreCompileInputs.cache
+C:\Users\N3XU5\Source\Repos\Rb29T3\Rb29T3\obj\Debug\Rb29T3.exe
+C:\Users\N3XU5\Source\Repos\Rb29T3\Rb29T3\obj\Debug\Rb29T3.pdb
+C:\Users\Korisnik\Documents\Visual Studio 2015\Projects\Rb29T3\Rb29T3\bin\Debug\Rb29T3.exe.config
+C:\Users\Korisnik\Documents\Visual Studio 2015\Projects\Rb29T3\Rb29T3\obj\Debug\Rb29T3.exe
+C:\Users\Korisnik\Documents\Visual Studio 2015\Projects\Rb29T3\Rb29T3\obj\Debug\Rb29T3.pdb

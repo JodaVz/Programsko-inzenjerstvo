@@ -1,0 +1,6 @@
+c:\users\korisnik\documents\visual studio 2015\Projects\PI_Petak_2_Razlomci\PI_Petak_2_Razlomci\bin\Debug\PI_Petak_2_Razlomci.exe.config
+c:\users\korisnik\documents\visual studio 2015\Projects\PI_Petak_2_Razlomci\PI_Petak_2_Razlomci\bin\Debug\PI_Petak_2_Razlomci.exe
+c:\users\korisnik\documents\visual studio 2015\Projects\PI_Petak_2_Razlomci\PI_Petak_2_Razlomci\bin\Debug\PI_Petak_2_Razlomci.pdb
+c:\users\korisnik\documents\visual studio 2015\Projects\PI_Petak_2_Razlomci\PI_Petak_2_Razlomci\obj\Debug\PI_Petak_2_Razlomci.csprojResolveAssemblyReference.cache
+c:\users\korisnik\documents\visual studio 2015\Projects\PI_Petak_2_Razlomci\PI_Petak_2_Razlomci\obj\Debug\PI_Petak_2_Razlomci.exe
+c:\users\korisnik\documents\visual studio 2015\Projects\PI_Petak_2_Razlomci\PI_Petak_2_Razlomci\obj\Debug\PI_Petak_2_Razlomci.pdb

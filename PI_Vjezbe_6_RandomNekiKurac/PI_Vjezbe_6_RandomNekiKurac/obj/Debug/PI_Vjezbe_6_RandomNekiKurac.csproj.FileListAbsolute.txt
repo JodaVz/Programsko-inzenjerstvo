@@ -1,0 +1,9 @@
+c:\users\korisnik\documents\visual studio 2015\Projects\PI_Vjezbe_6_RandomNekiKurac\PI_Vjezbe_6_RandomNekiKurac\bin\Debug\PI_Vjezbe_6_RandomNekiKurac.exe.config
+c:\users\korisnik\documents\visual studio 2015\Projects\PI_Vjezbe_6_RandomNekiKurac\PI_Vjezbe_6_RandomNekiKurac\bin\Debug\PI_Vjezbe_6_RandomNekiKurac.exe
+c:\users\korisnik\documents\visual studio 2015\Projects\PI_Vjezbe_6_RandomNekiKurac\PI_Vjezbe_6_RandomNekiKurac\bin\Debug\PI_Vjezbe_6_RandomNekiKurac.pdb
+c:\users\korisnik\documents\visual studio 2015\Projects\PI_Vjezbe_6_RandomNekiKurac\PI_Vjezbe_6_RandomNekiKurac\obj\Debug\PI_Vjezbe_6_RandomNekiKurac.csprojResolveAssemblyReference.cache
+c:\users\korisnik\documents\visual studio 2015\Projects\PI_Vjezbe_6_RandomNekiKurac\PI_Vjezbe_6_RandomNekiKurac\obj\Debug\PI_Vjezbe_6_RandomNekiKurac.Form1.resources
+c:\users\korisnik\documents\visual studio 2015\Projects\PI_Vjezbe_6_RandomNekiKurac\PI_Vjezbe_6_RandomNekiKurac\obj\Debug\PI_Vjezbe_6_RandomNekiKurac.Properties.Resources.resources
+c:\users\korisnik\documents\visual studio 2015\Projects\PI_Vjezbe_6_RandomNekiKurac\PI_Vjezbe_6_RandomNekiKurac\obj\Debug\PI_Vjezbe_6_RandomNekiKurac.csproj.GenerateResource.Cache
+c:\users\korisnik\documents\visual studio 2015\Projects\PI_Vjezbe_6_RandomNekiKurac\PI_Vjezbe_6_RandomNekiKurac\obj\Debug\PI_Vjezbe_6_RandomNekiKurac.exe
+c:\users\korisnik\documents\visual studio 2015\Projects\PI_Vjezbe_6_RandomNekiKurac\PI_Vjezbe_6_RandomNekiKurac\obj\Debug\PI_Vjezbe_6_RandomNekiKurac.pdb

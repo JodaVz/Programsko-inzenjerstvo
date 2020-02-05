@@ -1,0 +1,5 @@
+c:\users\korisnik\documents\visual studio 2015\Projects\PI_Vjezbe_6_G01\PI_Vjezbe_6_G01\bin\Debug\PI_Vjezbe_6_G01.exe.config
+c:\users\korisnik\documents\visual studio 2015\Projects\PI_Vjezbe_6_G01\PI_Vjezbe_6_G01\obj\Debug\PI_Vjezbe_6_G01.csprojResolveAssemblyReference.cache
+c:\users\korisnik\documents\visual studio 2015\Projects\PI_Vjezbe_6_G01\PI_Vjezbe_6_G01\obj\Debug\PI_Vjezbe_6_G01.Form1.resources
+c:\users\korisnik\documents\visual studio 2015\Projects\PI_Vjezbe_6_G01\PI_Vjezbe_6_G01\obj\Debug\PI_Vjezbe_6_G01.Properties.Resources.resources
+c:\users\korisnik\documents\visual studio 2015\Projects\PI_Vjezbe_6_G01\PI_Vjezbe_6_G01\obj\Debug\PI_Vjezbe_6_G01.csproj.GenerateResource.Cache

@@ -1,0 +1,6 @@
+c:\users\korisnik\documents\visual studio 2015\Projects\PI_Vjezbe_3_Utorak\PI_Vjezbe_3_Utorak\bin\Debug\PI_Vjezbe_3_Utorak.exe.config
+c:\users\korisnik\documents\visual studio 2015\Projects\PI_Vjezbe_3_Utorak\PI_Vjezbe_3_Utorak\bin\Debug\PI_Vjezbe_3_Utorak.exe
+c:\users\korisnik\documents\visual studio 2015\Projects\PI_Vjezbe_3_Utorak\PI_Vjezbe_3_Utorak\bin\Debug\PI_Vjezbe_3_Utorak.pdb
+c:\users\korisnik\documents\visual studio 2015\Projects\PI_Vjezbe_3_Utorak\PI_Vjezbe_3_Utorak\obj\Debug\PI_Vjezbe_3_Utorak.csprojResolveAssemblyReference.cache
+c:\users\korisnik\documents\visual studio 2015\Projects\PI_Vjezbe_3_Utorak\PI_Vjezbe_3_Utorak\obj\Debug\PI_Vjezbe_3_Utorak.exe
+c:\users\korisnik\documents\visual studio 2015\Projects\PI_Vjezbe_3_Utorak\PI_Vjezbe_3_Utorak\obj\Debug\PI_Vjezbe_3_Utorak.pdb

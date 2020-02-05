@@ -1,0 +1,6 @@
+c:\users\korisnik\documents\visual studio 2015\Projects\PI_Vjezba_1_7K\PI_Vjezba_1_7K\bin\Debug\PI_Vjezba_1_7K.exe.config
+c:\users\korisnik\documents\visual studio 2015\Projects\PI_Vjezba_1_7K\PI_Vjezba_1_7K\bin\Debug\PI_Vjezba_1_7K.exe
+c:\users\korisnik\documents\visual studio 2015\Projects\PI_Vjezba_1_7K\PI_Vjezba_1_7K\bin\Debug\PI_Vjezba_1_7K.pdb
+c:\users\korisnik\documents\visual studio 2015\Projects\PI_Vjezba_1_7K\PI_Vjezba_1_7K\obj\Debug\PI_Vjezba_1_7K.csprojResolveAssemblyReference.cache
+c:\users\korisnik\documents\visual studio 2015\Projects\PI_Vjezba_1_7K\PI_Vjezba_1_7K\obj\Debug\PI_Vjezba_1_7K.exe
+c:\users\korisnik\documents\visual studio 2015\Projects\PI_Vjezba_1_7K\PI_Vjezba_1_7K\obj\Debug\PI_Vjezba_1_7K.pdb

@@ -1,0 +1,14 @@
+C:\Users\marin\Desktop\PI Vjezbeeee\6. vjezba\G02\beskonacnaPetlja_svakih_15_sec\beskonacnaPetlja_svakih_15_sec\bin\Debug\beskonacnaPetlja_svakih_15_sec.exe.config
+C:\Users\marin\Desktop\PI Vjezbeeee\6. vjezba\G02\beskonacnaPetlja_svakih_15_sec\beskonacnaPetlja_svakih_15_sec\obj\Debug\beskonacnaPetlja_svakih_15_sec.csprojResolveAssemblyReference.cache
+C:\Users\marin\Desktop\PI Vjezbeeee\6. vjezba\G02\beskonacnaPetlja_svakih_15_sec\beskonacnaPetlja_svakih_15_sec\obj\Debug\beskonacnaPetlja_svakih_15_sec.Form1.resources
+C:\Users\marin\Desktop\PI Vjezbeeee\6. vjezba\G02\beskonacnaPetlja_svakih_15_sec\beskonacnaPetlja_svakih_15_sec\obj\Debug\beskonacnaPetlja_svakih_15_sec.Properties.Resources.resources
+C:\Users\marin\Desktop\PI Vjezbeeee\6. vjezba\G02\beskonacnaPetlja_svakih_15_sec\beskonacnaPetlja_svakih_15_sec\obj\Debug\beskonacnaPetlja_svakih_15_sec.csproj.GenerateResource.Cache
+C:\Users\marin\Desktop\PI Vjezbeeee\6. vjezba\G02\beskonacnaPetlja_svakih_15_sec\beskonacnaPetlja_svakih_15_sec\bin\Debug\beskonacnaPetlja_svakih_15_sec.exe
+C:\Users\marin\Desktop\PI Vjezbeeee\6. vjezba\G02\beskonacnaPetlja_svakih_15_sec\beskonacnaPetlja_svakih_15_sec\bin\Debug\beskonacnaPetlja_svakih_15_sec.pdb
+C:\Users\marin\Desktop\PI Vjezbeeee\6. vjezba\G02\beskonacnaPetlja_svakih_15_sec\beskonacnaPetlja_svakih_15_sec\bin\Debug\PIHelper.dll
+C:\Users\marin\Desktop\PI Vjezbeeee\6. vjezba\G02\beskonacnaPetlja_svakih_15_sec\beskonacnaPetlja_svakih_15_sec\bin\Debug\Newtonsoft.Json.dll
+C:\Users\marin\Desktop\PI Vjezbeeee\6. vjezba\G02\beskonacnaPetlja_svakih_15_sec\beskonacnaPetlja_svakih_15_sec\obj\Debug\beskonacnaPetlja_svakih_15_sec.exe
+C:\Users\marin\Desktop\PI Vjezbeeee\6. vjezba\G02\beskonacnaPetlja_svakih_15_sec\beskonacnaPetlja_svakih_15_sec\obj\Debug\beskonacnaPetlja_svakih_15_sec.pdb
+C:\Users\Korisnik\Documents\Visual Studio 2015\Projects\beskonacnapetlja_svakih_15_sec\beskonacnaPetlja_svakih_15_sec\bin\Debug\beskonacnaPetlja_svakih_15_sec.exe.config
+C:\Users\Korisnik\Documents\Visual Studio 2015\Projects\beskonacnapetlja_svakih_15_sec\beskonacnaPetlja_svakih_15_sec\obj\Debug\beskonacnaPetlja_svakih_15_sec.exe
+C:\Users\Korisnik\Documents\Visual Studio 2015\Projects\beskonacnapetlja_svakih_15_sec\beskonacnaPetlja_svakih_15_sec\obj\Debug\beskonacnaPetlja_svakih_15_sec.pdb

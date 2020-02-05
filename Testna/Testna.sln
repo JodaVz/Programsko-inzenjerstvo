@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Testna", "Testna\Testna.csproj", "{50CAC0F2-CE68-4F84-8A22-9103EFC4BBB0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JedinicniTest", "JedinicniTest\JedinicniTest.csproj", "{AC7D6FB8-BA76-45D7-8AC9-970305D01176}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{50CAC0F2-CE68-4F84-8A22-9103EFC4BBB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50CAC0F2-CE68-4F84-8A22-9103EFC4BBB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50CAC0F2-CE68-4F84-8A22-9103EFC4BBB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50CAC0F2-CE68-4F84-8A22-9103EFC4BBB0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC7D6FB8-BA76-45D7-8AC9-970305D01176}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC7D6FB8-BA76-45D7-8AC9-970305D01176}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC7D6FB8-BA76-45D7-8AC9-970305D01176}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC7D6FB8-BA76-45D7-8AC9-970305D01176}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

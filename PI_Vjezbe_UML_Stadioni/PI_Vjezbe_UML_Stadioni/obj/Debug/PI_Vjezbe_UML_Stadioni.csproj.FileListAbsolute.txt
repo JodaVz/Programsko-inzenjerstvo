@@ -1,0 +1,9 @@
+c:\users\korisnik\documents\visual studio 2015\Projects\PI_Vjezbe_UML_Stadioni\PI_Vjezbe_UML_Stadioni\bin\Debug\PI_Vjezbe_UML_Stadioni.exe.config
+c:\users\korisnik\documents\visual studio 2015\Projects\PI_Vjezbe_UML_Stadioni\PI_Vjezbe_UML_Stadioni\bin\Debug\PI_Vjezbe_UML_Stadioni.exe
+c:\users\korisnik\documents\visual studio 2015\Projects\PI_Vjezbe_UML_Stadioni\PI_Vjezbe_UML_Stadioni\bin\Debug\PI_Vjezbe_UML_Stadioni.pdb
+c:\users\korisnik\documents\visual studio 2015\Projects\PI_Vjezbe_UML_Stadioni\PI_Vjezbe_UML_Stadioni\obj\Debug\PI_Vjezbe_UML_Stadioni.csprojResolveAssemblyReference.cache
+c:\users\korisnik\documents\visual studio 2015\Projects\PI_Vjezbe_UML_Stadioni\PI_Vjezbe_UML_Stadioni\obj\Debug\PI_Vjezbe_UML_Stadioni.Form1.resources
+c:\users\korisnik\documents\visual studio 2015\Projects\PI_Vjezbe_UML_Stadioni\PI_Vjezbe_UML_Stadioni\obj\Debug\PI_Vjezbe_UML_Stadioni.Properties.Resources.resources
+c:\users\korisnik\documents\visual studio 2015\Projects\PI_Vjezbe_UML_Stadioni\PI_Vjezbe_UML_Stadioni\obj\Debug\PI_Vjezbe_UML_Stadioni.csproj.GenerateResource.Cache
+c:\users\korisnik\documents\visual studio 2015\Projects\PI_Vjezbe_UML_Stadioni\PI_Vjezbe_UML_Stadioni\obj\Debug\PI_Vjezbe_UML_Stadioni.exe
+c:\users\korisnik\documents\visual studio 2015\Projects\PI_Vjezbe_UML_Stadioni\PI_Vjezbe_UML_Stadioni\obj\Debug\PI_Vjezbe_UML_Stadioni.pdb

@@ -1,0 +1,9 @@
+c:\users\korisnik\documents\visual studio 2015\Projects\DNA\DNA\bin\Debug\DNA.exe.config
+c:\users\korisnik\documents\visual studio 2015\Projects\DNA\DNA\bin\Debug\DNA.exe
+c:\users\korisnik\documents\visual studio 2015\Projects\DNA\DNA\bin\Debug\DNA.pdb
+c:\users\korisnik\documents\visual studio 2015\Projects\DNA\DNA\obj\Debug\DNA.csprojResolveAssemblyReference.cache
+c:\users\korisnik\documents\visual studio 2015\Projects\DNA\DNA\obj\Debug\DNA.Form1.resources
+c:\users\korisnik\documents\visual studio 2015\Projects\DNA\DNA\obj\Debug\DNA.Properties.Resources.resources
+c:\users\korisnik\documents\visual studio 2015\Projects\DNA\DNA\obj\Debug\DNA.csproj.GenerateResource.Cache
+c:\users\korisnik\documents\visual studio 2015\Projects\DNA\DNA\obj\Debug\DNA.exe
+c:\users\korisnik\documents\visual studio 2015\Projects\DNA\DNA\obj\Debug\DNA.pdb

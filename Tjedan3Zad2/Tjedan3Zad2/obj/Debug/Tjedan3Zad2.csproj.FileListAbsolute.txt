@@ -1,0 +1,13 @@
+C:\Users\Ivana\source\repos\Tjedan3Zad2\Tjedan3Zad2\bin\Debug\Tjedan3Zad2.exe.config
+C:\Users\Ivana\source\repos\Tjedan3Zad2\Tjedan3Zad2\bin\Debug\Tjedan3Zad2.exe
+C:\Users\Ivana\source\repos\Tjedan3Zad2\Tjedan3Zad2\bin\Debug\Tjedan3Zad2.pdb
+C:\Users\Ivana\source\repos\Tjedan3Zad2\Tjedan3Zad2\obj\Debug\Tjedan3Zad2.csprojResolveAssemblyReference.cache
+C:\Users\Ivana\source\repos\Tjedan3Zad2\Tjedan3Zad2\obj\Debug\Tjedan3Zad2.csproj.CoreCompileInputs.cache
+C:\Users\Ivana\source\repos\Tjedan3Zad2\Tjedan3Zad2\obj\Debug\Tjedan3Zad2.exe
+C:\Users\Ivana\source\repos\Tjedan3Zad2\Tjedan3Zad2\obj\Debug\Tjedan3Zad2.pdb
+C:\Users\Korisnik\Documents\Visual Studio 2015\Projects\Tjedan3Zad2\Tjedan3Zad2\bin\Debug\Tjedan3Zad2.exe.config
+C:\Users\Korisnik\Documents\Visual Studio 2015\Projects\Tjedan3Zad2\Tjedan3Zad2\obj\Debug\Tjedan3Zad2.exe
+C:\Users\Korisnik\Documents\Visual Studio 2015\Projects\Tjedan3Zad2\Tjedan3Zad2\obj\Debug\Tjedan3Zad2.pdb
+C:\Users\Korisnik\Documents\Visual Studio 2015\Projects\Tjedan3Zad2\Tjedan3Zad2\bin\Debug\Tjedan3Zad2.exe
+C:\Users\Korisnik\Documents\Visual Studio 2015\Projects\Tjedan3Zad2\Tjedan3Zad2\bin\Debug\Tjedan3Zad2.pdb
+C:\Users\Korisnik\Documents\Visual Studio 2015\Projects\Tjedan3Zad2\Tjedan3Zad2\obj\Debug\Tjedan3Zad2.csprojResolveAssemblyReference.cache

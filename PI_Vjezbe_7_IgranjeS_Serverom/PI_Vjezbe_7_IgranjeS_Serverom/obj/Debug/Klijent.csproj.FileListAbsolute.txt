@@ -1,0 +1,9 @@
+c:\users\korisnik\documents\visual studio 2015\Projects\PI_Vjezbe_7_IgranjeS_Serverom\PI_Vjezbe_7_IgranjeS_Serverom\bin\Debug\PI_Vjezbe_7_IgranjeS_Serverom.exe.config
+c:\users\korisnik\documents\visual studio 2015\Projects\PI_Vjezbe_7_IgranjeS_Serverom\PI_Vjezbe_7_IgranjeS_Serverom\bin\Debug\PI_Vjezbe_7_IgranjeS_Serverom.exe
+c:\users\korisnik\documents\visual studio 2015\Projects\PI_Vjezbe_7_IgranjeS_Serverom\PI_Vjezbe_7_IgranjeS_Serverom\bin\Debug\PI_Vjezbe_7_IgranjeS_Serverom.pdb
+c:\users\korisnik\documents\visual studio 2015\Projects\PI_Vjezbe_7_IgranjeS_Serverom\PI_Vjezbe_7_IgranjeS_Serverom\obj\Debug\Klijent.csprojResolveAssemblyReference.cache
+c:\users\korisnik\documents\visual studio 2015\Projects\PI_Vjezbe_7_IgranjeS_Serverom\PI_Vjezbe_7_IgranjeS_Serverom\obj\Debug\PI_Vjezbe_7_IgranjeS_Serverom.Properties.Resources.resources
+c:\users\korisnik\documents\visual studio 2015\Projects\PI_Vjezbe_7_IgranjeS_Serverom\PI_Vjezbe_7_IgranjeS_Serverom\obj\Debug\Klijent.csproj.GenerateResource.Cache
+c:\users\korisnik\documents\visual studio 2015\Projects\PI_Vjezbe_7_IgranjeS_Serverom\PI_Vjezbe_7_IgranjeS_Serverom\obj\Debug\PI_Vjezbe_7_IgranjeS_Serverom.exe
+c:\users\korisnik\documents\visual studio 2015\Projects\PI_Vjezbe_7_IgranjeS_Serverom\PI_Vjezbe_7_IgranjeS_Serverom\obj\Debug\PI_Vjezbe_7_IgranjeS_Serverom.pdb
+c:\users\korisnik\documents\visual studio 2015\Projects\PI_Vjezbe_7_IgranjeS_Serverom\PI_Vjezbe_7_IgranjeS_Serverom\obj\Debug\PI_Vjezbe_7_IgranjeS_Serverom.Forma_Klijenta.resources

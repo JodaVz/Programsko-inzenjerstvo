@@ -1,0 +1,7 @@
+c:\Users\Korisnik\documents\visual studio 2015\Projects\Testna\JedinicniTest\bin\Debug\JedinicniTest.dll
+c:\Users\Korisnik\documents\visual studio 2015\Projects\Testna\JedinicniTest\bin\Debug\JedinicniTest.pdb
+c:\Users\Korisnik\documents\visual studio 2015\Projects\Testna\JedinicniTest\bin\Debug\Testna.exe
+c:\Users\Korisnik\documents\visual studio 2015\Projects\Testna\JedinicniTest\bin\Debug\Testna.pdb
+c:\Users\Korisnik\documents\visual studio 2015\Projects\Testna\JedinicniTest\obj\Debug\JedinicniTest.csprojResolveAssemblyReference.cache
+c:\Users\Korisnik\documents\visual studio 2015\Projects\Testna\JedinicniTest\obj\Debug\JedinicniTest.dll
+c:\Users\Korisnik\documents\visual studio 2015\Projects\Testna\JedinicniTest\obj\Debug\JedinicniTest.pdb

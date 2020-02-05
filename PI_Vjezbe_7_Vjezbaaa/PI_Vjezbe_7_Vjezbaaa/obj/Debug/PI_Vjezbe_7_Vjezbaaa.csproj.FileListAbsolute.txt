@@ -1,0 +1,9 @@
+c:\users\korisnik\documents\visual studio 2015\Projects\PI_Vjezbe_7_Vjezbaaa\PI_Vjezbe_7_Vjezbaaa\bin\Debug\PI_Vjezbe_7_Vjezbaaa.exe.config
+c:\users\korisnik\documents\visual studio 2015\Projects\PI_Vjezbe_7_Vjezbaaa\PI_Vjezbe_7_Vjezbaaa\bin\Debug\PI_Vjezbe_7_Vjezbaaa.exe
+c:\users\korisnik\documents\visual studio 2015\Projects\PI_Vjezbe_7_Vjezbaaa\PI_Vjezbe_7_Vjezbaaa\bin\Debug\PI_Vjezbe_7_Vjezbaaa.pdb
+c:\users\korisnik\documents\visual studio 2015\Projects\PI_Vjezbe_7_Vjezbaaa\PI_Vjezbe_7_Vjezbaaa\obj\Debug\PI_Vjezbe_7_Vjezbaaa.csprojResolveAssemblyReference.cache
+c:\users\korisnik\documents\visual studio 2015\Projects\PI_Vjezbe_7_Vjezbaaa\PI_Vjezbe_7_Vjezbaaa\obj\Debug\PI_Vjezbe_7_Vjezbaaa.Form1.resources
+c:\users\korisnik\documents\visual studio 2015\Projects\PI_Vjezbe_7_Vjezbaaa\PI_Vjezbe_7_Vjezbaaa\obj\Debug\PI_Vjezbe_7_Vjezbaaa.Properties.Resources.resources
+c:\users\korisnik\documents\visual studio 2015\Projects\PI_Vjezbe_7_Vjezbaaa\PI_Vjezbe_7_Vjezbaaa\obj\Debug\PI_Vjezbe_7_Vjezbaaa.csproj.GenerateResource.Cache
+c:\users\korisnik\documents\visual studio 2015\Projects\PI_Vjezbe_7_Vjezbaaa\PI_Vjezbe_7_Vjezbaaa\obj\Debug\PI_Vjezbe_7_Vjezbaaa.exe
+c:\users\korisnik\documents\visual studio 2015\Projects\PI_Vjezbe_7_Vjezbaaa\PI_Vjezbe_7_Vjezbaaa\obj\Debug\PI_Vjezbe_7_Vjezbaaa.pdb

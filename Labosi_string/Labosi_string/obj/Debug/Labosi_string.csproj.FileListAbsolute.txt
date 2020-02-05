@@ -1,0 +1,6 @@
+c:\users\korisnik\documents\visual studio 2015\Projects\Labosi_string\Labosi_string\bin\Debug\Labosi_string.exe.config
+c:\users\korisnik\documents\visual studio 2015\Projects\Labosi_string\Labosi_string\bin\Debug\Labosi_string.exe
+c:\users\korisnik\documents\visual studio 2015\Projects\Labosi_string\Labosi_string\bin\Debug\Labosi_string.pdb
+c:\users\korisnik\documents\visual studio 2015\Projects\Labosi_string\Labosi_string\obj\Debug\Labosi_string.csprojResolveAssemblyReference.cache
+c:\users\korisnik\documents\visual studio 2015\Projects\Labosi_string\Labosi_string\obj\Debug\Labosi_string.exe
+c:\users\korisnik\documents\visual studio 2015\Projects\Labosi_string\Labosi_string\obj\Debug\Labosi_string.pdb
